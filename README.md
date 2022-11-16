@@ -10,5 +10,9 @@ A simple 4-color palette builder that has options to generate a random palette o
 * CSS
 * JavaScript
 
+## Version History
+* 1.0
+    * Initial Release with true random and monochrome random feature
+
 ## Author
 Me! [@zpeltzpalko](https://github.com/zpeltzpalko)
